@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Іван Іванов",
+      "passport": "AA123456",
+      "education": "вища",
+      "specialty": "інженер",
+      "position": "менеджер",
+      "salary": 1000
+    },
+    {
+        "id": 2,
+        "name": "Іван Сергійов",
+        "passport": "AA123231",
+        "education": "вища",
+        "specialty": "Маркетолок",
+        "position": "Піар-менеджер",
+        "salary": 3000
+    }
+]
